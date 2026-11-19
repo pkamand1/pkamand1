@@ -1,6 +1,6 @@
 # Patricia Kamanda
 
-I am a data scientist working across biomedical signal processing, genomics, and health informatics. My work pairs statistical modeling and machine learning with several years as an applications scientist in the sequencing industry (Oxford Nanopore, PacBio, and Beckman Coulter Life Sciences), where I built and supported analysis pipelines for research and clinical laboratories.
+I am a data scientist working across biomedical signal processing, genomics, and health informatics. My work pairs statistical modeling and machine learning with several years as an applications scientist in the sequencing industry (Oxford Nanopore and Beckman Coulter Life Sciences), where I built and supported analysis pipelines for research and clinical laboratories.
 
 ## What I work on
 
