@@ -36,7 +36,7 @@ I am a data scientist working across biomedical signal processing, multi-omics, 
 | [game-telemetry-sql-analytics](https://github.com/pkamand1/game-telemetry-sql-analytics) | A layered MySQL warehouse with stored procedures, views, partitioning, and measured query tuning; the same models in dbt with tests; retention, stability, and bot detection |
 | [inventory-fulfillment-optimization](https://github.com/pkamand1/inventory-fulfillment-optimization) | An explainable demand forecast, deterministic and stochastic linear programs, Monte Carlo policy evaluation, and replenishment simulation |
 
-### Genomics and omics
+### Multi-omics
 
 | Project | What it shows |
 | --- | --- |
